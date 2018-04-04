@@ -1,0 +1,16 @@
+{
+    "css/crmtheme.min.css": [
+        "public/css/crmtheme.css",
+        "public/css/skin-blue.css",
+        "public/css/custom.css",
+        "public/css/temp.css"
+    ],
+    "js/crmtheme.min.js": [
+        "public/js/crmtheme.js",
+        "public/js/custom.js"
+    ],
+    "js/crmtheme-template.min.js": [
+        "public/js/template/main-sidebar.html"
+    ]
+    
+}
