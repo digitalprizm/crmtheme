@@ -376,7 +376,7 @@
  width:25px;
 }
 .main-sidebar .sidebar-menu .treeview-menu>li>a>.pull-right-container>.fa-angle-left,.main-sidebar .sidebar-menu .treeview-menu>li>a>.pull-right-container>.fa-angle-down,.main-sidebar .sidebar-menu .treeview-menu>li>a>.fa-angle-left,.main-sidebar .sidebar-menu .treeview-menu>li>a>.fa-angle-down {
- width:270px;
+ width:380px;
 }
 ul.treeview-menu {
     width: 270px !important;
@@ -420,7 +420,7 @@ li.treeview {
  .sidebar-mini.sidebar-collapse .main-sidebar .sidebar-menu>li:hover>a>span:not(.pull-right),.sidebar-mini.sidebar-collapse .main-sidebar .sidebar-menu>li:hover>.treeview-menu {
   display:block !important;
   position:absolute;
-  width:180px;
+  width:280px;
   left:50px
  }
  .sidebar-mini.sidebar-collapse .main-sidebar .sidebar-menu>li:hover>a>span {
